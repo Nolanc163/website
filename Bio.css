@@ -1,0 +1,9 @@
+html{
+  background: linear-gradient(to top, #ff6600 0%, #72215d 100%);
+  background-repeat: no-repeat;
+  height:100%;
+
+  font-family: sans-serif;
+
+  text-align: center;
+}
